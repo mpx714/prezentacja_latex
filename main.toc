@@ -1,0 +1,12 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Tradycyjne Zupy Wigilijne}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Barszcz czerwony z uszkami}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Zupa grzybowa}{5}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Pierogi}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Pierogi z kapustą i grzybami}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Tajemnica ciasta}{6}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Matematyka w kuchni}{7}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Ryby na stole wigilijnym}{8}{chapter.3}%
+\contentsline {chapter}{\numberline {A}Załączniki}{9}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Przepis na przyprawę piernikową}{9}{section.A.1}%
+\contentsline {chapter}{\numberline {B}Wykaz skrótów}{10}{appendix.B}%
